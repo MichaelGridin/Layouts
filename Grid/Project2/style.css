@@ -29,7 +29,6 @@ body {
 .div1 {
     background: #FCD0D0;
     border-radius: 10px;
-    border: 1px solid grey;
     grid-column: 1/5;
     grid-row: 1/2;
     height: 145px;
@@ -62,7 +61,6 @@ body {
 .div5 {
     background: #E1E1E3;
     border-radius: 10px;
-    border: 1px solid grey;
     grid-column: 1/6;
     grid-row: 4;
     height: 120px;
